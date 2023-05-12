@@ -2,7 +2,7 @@
 
 lammotv2.py tiedosto tuottaa tällä hetkellä satunnaista tietoa (esim. cpu muuttuja = cpu lämpö -> 80 - 85 välillä)
 
-Raspberrystä vaihtamalla muuttujat cpu, cpupros, rampros saataisiin raspberrystä nämä tiedot (tarvitaan myös 'import psutil')
+lammotv2.py tiedostosta vaihtamalla muuttujat cpu, cpupros, rampros saataisiin raspberrystä nämä tiedot seuraavasti(tarvitaan myös 'import psutil'):
 
 -> cpu = CPUTemperature ()
 -> cpupros = psutil.cpu_percent(interval=1) # yhden sekunnin välein
