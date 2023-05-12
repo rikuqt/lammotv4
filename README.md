@@ -1,4 +1,4 @@
-# lammotv4
+# Tietoa lammotv2.py ohjelmasta
 
 lammotv2.py tiedosto tuottaa tällä hetkellä satunnaista tietoa (esim. cpu muuttuja = cpu lämpö -> 80 - 85 välillä)
 
