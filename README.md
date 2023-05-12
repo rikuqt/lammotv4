@@ -11,4 +11,4 @@ lammotv2.py tiedostosta vaihtamalla muuttujat cpu, cpupros, rampros saataisiin r
 jos haluaa vielä että raspberry lähettää jatkuvasti niin lammotv2.py while lauseke voidaan muuttaa 'while alfa < 100:' -> 'while (True):'
 + samalla poistaa muuttujat esim. alfa joka laskee "testi" kerrat.
 
-**Lammot.py tiedosto sisältää python koodin jota olemme jo aiemmin käyttänyt raspberryn kanssa, mutta tämä versio lähettää mqtt  avulla thingspeaki kanavallemme tietoa.**
+***Lammot.py tiedosto sisältää python koodin jota olemme jo aiemmin käyttänyt raspberryn kanssa, mutta tämä versio lähettää mqtt  avulla thingspeaki kanavallemme tietoa.***
