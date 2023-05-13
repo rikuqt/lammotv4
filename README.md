@@ -13,6 +13,6 @@ jos haluaa vielä että raspberry lähettää jatkuvasti niin lammotv2.py while 
 + samalla poistaa muuttujat esim. alfa joka laskee "testi" kerrat.
 
 
-***Lammot.py tiedosto sisältää python koodin jota olemme jo aiemmin käyttänyt raspberryn kanssa, mutta tämä versio lähettää mqtt:n  avulla Thingspeak kanavallemme tietoa.***
+***Lammot.py tiedosto sisältää python koodin jota olemme jo aiemmin käyttänyt raspberrypi:n kanssa, mutta tämä versio lähettää mqtt:n  avulla Thingspeak kanavallemme tietoa.***
 
 **Tekijät:** Joona Säntti, Riku Tomann
