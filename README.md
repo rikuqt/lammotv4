@@ -15,4 +15,4 @@ jos haluaa vielä että raspberry lähettää jatkuvasti niin lammotv2.py while 
 
 ***Lammot.py tiedosto sisältää python koodin jota olemme jo aiemmin käyttänyt raspberryn kanssa, mutta tämä versio lähettää mqtt:n  avulla Thingspeak kanavallemme tietoa.***
 
-**Tekijät:** Säntti, Tomann
+**Tekijät:** Joona Säntti, Riku Tomann
