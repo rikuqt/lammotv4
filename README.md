@@ -1,6 +1,7 @@
 # Tietoa lammotv2.py ohjelmasta
 
-lammotv2.py tiedosto tuottaa tällä hetkellä satunnaista tietoa (esim. cpu muuttuja = cpu lämpö -> 80 - 85 välillä)
+lammotv2.py tiedosto tuottaa tällä hetkellä satunnaista tietoa (esim. cpu muuttuja = cpu lämpö -> 80 - 85 välillä) ja sen pitää olla päällä
+että "/chart" html-sivu näyttää taulukon.
 
 lammotv2.py tiedostosta vaihtamalla muuttujat cpu, cpupros, rampros saataisiin raspberrystä nämä tiedot seuraavasti(tarvitaan myös 'import psutil'):
 
