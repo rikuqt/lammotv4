@@ -29,7 +29,7 @@ def random_lammot():
         response = requests.post("https://lammotv3.azurewebsites.net/uusimittaus", data = s)
 
         print(s)
-        time.sleep(10)
+        time.sleep(1)
 
         alfa += 1
 
